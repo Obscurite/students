@@ -30,7 +30,7 @@
 
 
    * - 2
-     - Петров Иван Иванович
+     - Бессонов Борис Романович
      - `example <https://github.com/example>`_
      -            `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__            `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__            `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__            `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__
      -            `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__            `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__            `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__            `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__
